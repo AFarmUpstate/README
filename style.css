@@ -1,0 +1,10 @@
+* {margin:0;padding:0}
+html{background:#a5a86e url(i/farm_bg.jpg) fixed bottom center no-repeat;}
+body {font-family: Arial, sans-serif; color: #333;margin: 0 auto;padding:10px; max-width: 600px;background-color:rgba(255,255,255,0.75);box-shadow: 0 0 20px 20px rgba(255,255,255,0.75);}
+footer {position:absolute;bottom:0;right:0;font-size:65%;width:100px;min-height:70px;text-align:right;}
+footer a {position:absolute;bottom:0; right:0;display:block;background:transparent url(i/EoaS.png) top right no-repeat;color:transparent;width:100px;min-height:60px;}
+p {margin-top:1.5EM;}
+.link {text-align:center;position:relative;min-height:40px;}
+.link img {position:absolute;left:10px;}
+.code {border:0;display:block;position:absolute;background-color:transparent;overflow-y:hidden;left:160px;height:4em;width:70%;font-family: Courier New,Courier,monospace; font-size:80%;}
+
